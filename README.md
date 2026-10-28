@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦇 Welcome to my profile 🦇
+# 🦇 Welcome to my profile🦇
 
 </div>
 
@@ -26,16 +26,19 @@
 > *"The only true wisdom is in knowing you know nothing."* — Socrates
 
 * 💻 **Full-Stack Web & App Developer** & student at BTA College, with **10+ projects** built and deployed. Always experimenting, testing new ideas, and evolving through a stoic, disciplined mindset.
+* 🎬 **Creative Director & Writer:** Scriptwriter, editor, and director — crafting immersive narratives, atmospheric digital worlds, and interactive experiences.
 * ♟️ **Chess Enthusiast:** Playing blindfold chess, calculating deep moves, and hunting down **1500 Elo** bots.
 * 🎲 **Boardgames & Mind Games:** Solving Hard/Evil Sudoku, playing boardgames, and mastering logic puzzles.
 * 🎸 Passionate about clean architecture, 18-fret acoustic guitar melodies, and dark aesthetics.
-* 🖤 Exploring vintage vibes, atmospheric web projects, and rhythm games like *osu!catch*.
+* 🖤 Exploring vintage vibes, pixel-art games, and rhythm games like *osu!catch*.
+* 🦥 **Professional Title:** Officially a deeply dedicated (yet occasionally lazy) master of the shadows, Mr. Namade.
 
 ---
 
 ### 🚀 Projects & Creations
 
 * **Founder of Namade-Company:** Architecting and developing next-gen digital solutions, web applications, and interactive experiences.
+* **Web & Pixel-Art Games:** Crafting immersive web games, retro pixel-art worlds, and interactive 3D designs.
 * **Osu! Map Generator:** Automated beatmap generation tool built to streamline custom rhythm game creation.
 * **Qalaqobana Web App:** Interactive digital adaptation of the classic Georgian category word game.
 * **Custom Sudoku Platform:** Sleek, minimalist logic puzzle interface designed for hardcore difficulty solvers.
